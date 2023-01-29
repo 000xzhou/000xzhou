@@ -5,7 +5,7 @@
 - [Shopify Poke](https://github.com/000xzhou/Shopify-Dev) [HTML,CSS,JS]
 - [Blue Bird](https://github.com/000xzhou/BlueBird) [Next.JS React]
 
-- 🌱 I’m currently learning **React and backend and then kotlin/dart**
+- 🌱 I’m currently learning **React, Next**
 
 - 👨‍💻 All of my projects are available at [https://github.com/000xzhou](https://github.com/000xzhou)
 
