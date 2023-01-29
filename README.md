@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/000xzhou](https://github.com/000xzhou)
 
-- 💬 Ask me about **anything full stack**
-
 - ⚡ Fun fact **I enjoy being crushed by cats.**
 
 <h3 align="left">Connect with me:</h3>
