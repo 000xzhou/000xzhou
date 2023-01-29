@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Xiang Zhou</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
-- 🔭 I’m currently working on [Shopify Poke](https://github.com/000xzhou/Shopify-Dev)
-- Currently on hold: [Blue Bird](https://github.com/000xzhou/BlueBird)
+- 🔭 I’m currently working on:
+- [Shopify Poke](https://github.com/000xzhou/Shopify-Dev) [HTML,CSS,JS]
+- [Blue Bird](https://github.com/000xzhou/BlueBird) [Next.JS React]
 
 - 🌱 I’m currently learning **React and backend and then kotlin/dart**
 
